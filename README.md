@@ -19,10 +19,10 @@ Data analysis on traffic collisions and drivers within the Montgomery County of 
 ***Crash Type***<br>
 Interactive button to filter through types of crashes.<br>
 <!--<img width="380" height="89" alt="image" src="https://github.com/user-attachments/assets/b54dba52-c3ce-4a80-8c7d-ca15c1c720a5" /><br>-->
-<img width="75%" height="75%" src="./Tableau (Crash).gif" /><br>
+<img width="75%" height="75%" src="./assets/Tableau (Crash).gif" /><br>
 <br>
 ***Date Category***<br>
 Interactive button for date category.<br>
 <!--<img width="691" height="472" alt="image" src="https://github.com/user-attachments/assets/a7b27296-25b2-48c7-950d-0ebda170a1cd" /><br>-->
-<img width="75%" height="75%" src="./Tableau (Date).gif" /><br>
+<img width="75%" height="75%" src="./assets/Tableau (Date).gif" /><br>
 
