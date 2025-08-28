@@ -2,6 +2,9 @@
 **Car Crash Reports Reported in Montgomery, Maryland (2015-2025)**
 
 ## Overview
+ - Tecnologies
+ - Links
+ - Screenshots
 
 ## Technologies Used
 - Jupyter Notebook
@@ -10,4 +13,10 @@
 ## Links
 - LinkedIn: [Timothy Kim](https://www.linkedin.com/in/timothy-m-kim/)
 - Dashboard: [Tableau Dashboard](https://public.tableau.com/views/MarylandCrashDashboard/Visual?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - Dashboard Icons: [Car](<a href="https://www.flaticon.com/free-icons/accident" title="accident icons">Accident icons created by NajmunNahar - Flaticon</a>)
+  - [Medical Cross](<a href="https://www.flaticon.com/free-icons/cross" title="cross icons">Cross icons created by Good Ware - Flaticon</a>)
+  - [Skull](<a href="https://www.flaticon.com/free-icons/skull-and-bones" title="skull and bones icons">Skull and bones icons created by Smashicons - Flaticon</a>)
 - Source: [Crash Reporting - Drivers Data](https://catalog.data.gov/dataset/crash-reporting-drivers-data)
+  
+## Screenshots
+<img width="1489" height="992" alt="image" src="https://github.com/user-attachments/assets/5cec7d4f-794e-43da-a0e8-b76f5eff28ad" />
