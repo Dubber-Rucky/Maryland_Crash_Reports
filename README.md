@@ -1,4 +1,4 @@
-# **Car Crash Reports Reported in Montgomery, Maryland (2015-2025)**<br>
+# **Car Crash Reports Reported in Montgomery County, Maryland (2015-2025)**<br>
 <img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/5cec7d4f-794e-43da-a0e8-b76f5eff28ad" /><br>
 [Tableau Dashboard](https://public.tableau.com/views/MarylandCrashDashboard/Visual?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
